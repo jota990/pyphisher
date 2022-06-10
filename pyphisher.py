@@ -124,7 +124,7 @@ logo=f'''
 {red} | |   | |_| | |    | | | | \__ \ | | |  __/ |   
 {yellow} |_|    \__, |_|    |_| |_|_|___/_| |_|\___|_|   
 {green}         __/ |                          {cyan}[v{version}]
-{cyan}        |___/                   {red}[By KasRoudra]
+{cyan}        |___/                   {red}[JotaHacker]
 '''
 
 
