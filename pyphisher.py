@@ -125,8 +125,6 @@ logo=f'''
 {yellow} |_|    \__, |_|    |_| |_|_|___/_| |_|\___|_|   
 {green}         __/ |                          {cyan}[v{version}]
 {cyan}        |___/                   {red}[JotaHacker]
-'''
-
 
 pkgs=[ "php", "curl", "wget", "unzip" ]
 
